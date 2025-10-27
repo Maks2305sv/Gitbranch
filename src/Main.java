@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hello world");
         System.out.println("hello world from task 15");
         System.out.println("hello world from task 16");
+        System.out.println("task 18");
     }
 }
